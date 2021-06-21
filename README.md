@@ -1,4 +1,4 @@
-# Electric task1
+# Electric Path Task1
 
 this is the first task for electric engineering path.
 
