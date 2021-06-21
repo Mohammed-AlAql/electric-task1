@@ -1,9 +1,9 @@
 # Electric Path Task1
 
-this is the first task for electric engineering path.
+This is the first task for electric engineering path.
 
-to control and move the robotic arm that we already designed, we wil use electric mototrs between every junction in the arm. the motor should be senintive to degree so, we are going to use "Servo motor" with arduino to control the movoment in the arm. 
+To control and move the robotic arm that we already designed, we wil use electric mototrs between every junction in the arm. the motor should be senintive to degree so, we are going to use "Servo motor" with arduino to control the movoment in the arm. 
 
-this  repository contains three main parts, the design of the circuit, the code needed to burn in arduino and compenants needed.
+This  repository contains three main parts, the design of the circuit, the code needed to burn in arduino and compenants needed.
 there are two ways to move the servo motor either with variable resistors or without the variable resistors which will be going from 0 degree to 90 degree cont. 
 
